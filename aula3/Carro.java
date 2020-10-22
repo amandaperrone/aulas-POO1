@@ -1,3 +1,5 @@
+package aula3;
+
 public class Carro {
 
     // Criação de atributos

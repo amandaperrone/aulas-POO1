@@ -1,3 +1,5 @@
+package aula2;
+
 public class teste {
     public static void main(String[] args) {
         Casa c1 = new Casa();

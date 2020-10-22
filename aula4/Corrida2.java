@@ -1,3 +1,5 @@
+package aula4;
+
 import java.util.ArrayList;
 
 public class Corrida2 {

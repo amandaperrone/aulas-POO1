@@ -1,4 +1,4 @@
-//package aula6;
+package aula6;
 
 public class Teste2 {
     

@@ -1,3 +1,5 @@
+package aula3;
+
 public class Corrida {
 
     public static void main(String[] args) {

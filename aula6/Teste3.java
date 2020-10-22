@@ -1,3 +1,5 @@
+package aula6;
+
 import java.util.ArrayList;
 
 public class Teste3 {

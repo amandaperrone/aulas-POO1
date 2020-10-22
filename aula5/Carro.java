@@ -1,4 +1,4 @@
-package exercicio;
+package aula5;
 
 public class Carro {
 
